@@ -1,5 +1,5 @@
 # JArch - Framework for Java Architects
-## What is JArch Framework ?
+## What is JArch Framework?
 JArch is a modular framework for Java that help developers to accelerate their work while developing 
 application architectures. It contains a bunch of battle tested utilities and solid structures that guides developers 
 to perform best practice OOP techniques.
